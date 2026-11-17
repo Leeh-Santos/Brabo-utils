@@ -1,0 +1,3 @@
+[submodule "pass-the-torch/lib/forge-std"]
+	path = pass-the-torch/lib/forge-std
+	url = https://github.com/foundry-rs/forge-std
